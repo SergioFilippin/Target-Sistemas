@@ -1,0 +1,4 @@
+Primeiro, acionaria dois dos três interruptores e verificaria se a lâmpada foi ligada. Se a lâmpada acendeu, voltaria à sala de controle e desligaria um dos interruptores, 
+em seguida, faria uma nova verificação. Se a lâmpada permanecer acesa, o interruptor que ficou ligado é o correto. 
+    Caso a lâmpada apague, o interruptor desligado é o responsável pela luz.
+Se, na primeira tentativa, a lâmpada não ligar, isso significa que o interruptor correto é o que não foi acionado.
